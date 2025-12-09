@@ -1,5 +1,5 @@
 ---
-title: 【個人開発】佐世保のパパママを救いたい！生成AI × GASで「子育て支援LINEボ
+title: 【個人開発】佐世保のパパママを救いたい！生成AI × GASで「子育て支援LINEボットット
 tags: ["GoogleAppsScript", "LINEBot", "Gemini", "BODIK", "オープンデータ"]
 private: true
 updated_at: ''
@@ -25,7 +25,7 @@ ignorePublish: false
 佐世保市の子育て世帯向けに、以下の機能を提供するLINE公式アカウントです。
 
 > **\ 実際に触ってみてください！ /**
-> [LINE友だち追加URLはこちら](https://line.me/R/ti/p/あなたのLINE_ID)
+> [LINE友だち追加URLはこちら](https://lin.ee/CZzhwCt)
 > <img src="https://qr-official.line.me/gs/M_892uxzzq_GW.png?oat_content=qr">
 
 * 🏥 **病院検索**: 現在地から、診療科（小児科など）と距離で絞り込み、近い順に表示。
@@ -33,7 +33,7 @@ ignorePublish: false
 * 📅 **イベント情報**: 「今週末」「来月」のイベントをAIが自動収集して案内。
 * 🤖 **AI子育て相談**: 育児の悩みをAI（Gemini）に相談できる対話機能。
 
-![LINEボットのデモ画面](https://via.placeholder.com/600x400?text=LINE_Bot_Demo_Image)
+![LINEボットのデモ画面](images/demo.png)
 
 ## 技術スタック🛠️
 「スモールスタート」と「運用コストゼロ」にこだわり構築しました。
