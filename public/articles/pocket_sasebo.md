@@ -1,6 +1,6 @@
 ---
 title: 【個人開発】佐世保のパパママを救いたい！生成AI × GASで「子育て支援LINEボット」を作ってみた👶🚀
-tags: ["GoogleAppsScript", "LINEBot", "Gemini", "個人開発", "オープンデータ"]
+tags: ["GoogleAppsScript", "LINEBot", "Gemini", "BODIK", "オープンデータ"]
 private: true
 id: null
 ignorePublish: false
