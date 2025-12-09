@@ -1,7 +1,7 @@
 ---
 title: テスト投稿です
 tags: ["GitHub", "Qiita", "初心者"]
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
