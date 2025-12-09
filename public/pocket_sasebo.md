@@ -33,7 +33,7 @@ ignorePublish: false
 * 📅 **イベント情報**: 「今週末」「来月」のイベントをAIが自動収集して案内。
 * 🤖 **AI子育て相談**: 育児の悩みをAI（Gemini）に相談できる対話機能。
 
-![LINEボットのデモ画面](images/demo.png)
+![LINEボットのデモ画面](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/639411/feb679ba-1a83-4291-a1aa-12bfff057811.png)
 
 ## 技術スタック🛠️
 「スモールスタート」と「運用コストゼロ」にこだわり構築しました。
