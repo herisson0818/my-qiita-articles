@@ -5,7 +5,7 @@ on:
     branches:
       - main  # メインブランチ名に合わせて変更してください（masterの場合もあり）
     paths:
-      - 'public/articles**' # publicフォルダ内の変更時のみ実行
+      - 'public/articles/**' # publicフォルダ内の変更時のみ実行
 
 jobs:
   publish:
