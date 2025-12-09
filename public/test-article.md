@@ -1,6 +1,6 @@
 ---
 title: テスト投稿です
-tags: GitHub, Qiita, 初心者
+tags: ["GitHub", "Qiita", "初心者"]
 private: true
 updated_at: ''
 id: null
