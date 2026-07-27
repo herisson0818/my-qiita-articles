@@ -104,6 +104,9 @@ VSCode（無料のコードエディタ）の中でClaude Codeを動かし、
 1. [Python公式サイト](https://www.python.org/downloads/) から Python 3.11 をダウンロード
 2. インストーラーを起動したら、**画面下部の「Add python.exe to PATH」に必ずチェックを入れてから**「Install Now」をクリック（ここを忘れるとあとの手順でエラーになります）
 
+> **ポイント：あえて最新版ではなくPython 3.11を使う理由**
+> このアプリが使っているAI関連のライブラリ（TensorFlow）は、最新のPythonに対応するまでにタイムラグがあります。新しすぎるPythonを使うと、この後のセットアップ手順でインストールエラーが出ることがあるため、動作確認済みのバージョンとしてPython 3.11を案内しています。
+
 ## STEP3: セットアップする（コピペでOK）
 
 1. Windowsの検索欄で「PowerShell」と入力して起動
