@@ -3,7 +3,7 @@ title: "保育士の妻のために、非エンジニアの夫がClaude Codeで�
 tags: ["非エンジニア", "ClaudeCode", "保育", "顔認識", "Python"]
 private: false
 updated_at: ''
-id: null
+id: 9f97d8c7b0d4edcad484
 organization_url_name: null
 slide: false
 ignorePublish: false
